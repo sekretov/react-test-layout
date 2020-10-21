@@ -32,6 +32,9 @@ const Logo = styled.div`
   @media all and (max-width: 500px) {
     display: block;
   }
+  & img {
+    max-width: 300px;
+  }
 `;
 
 const Main = () => {

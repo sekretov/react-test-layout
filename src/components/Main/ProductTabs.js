@@ -79,7 +79,7 @@ const ProductTabsWrapper = styled.div`
     width: 100px;
   }
   & .MuiTabs-root {
-    margin-left: 24px;
+    margin-left: -18px;
   }
   @media all and (min-width: 600px) {
     & .MuiTab-root {
